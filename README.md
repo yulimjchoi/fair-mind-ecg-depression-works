@@ -1,6 +1,6 @@
 # fair-mind-ecg-depression
 
-This directory contains the core code for the publication "[Manuscript title]" -
+This directory contains the core code for the publication "ECG-based Autonomic Profiles for Depression: Partial Reproduction, Nonlinear Extension, and Commentary" -
 [Authors] ([Year])
 
 The two scripts cover the central analysis: deriving spectral HRV proxies (LF, HF,
