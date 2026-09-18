@@ -12,7 +12,7 @@ preprocessing and subject-level aggregation are not included here.
 
 This code has been used to derive the LF, HF, LFnu and TP proxy equations from the
 published Weber summary statistics as described in the methods part of the manuscript
-under "[Section name]". The predictor-predictor and predictor-target correlations are
+under "[Section name1]". The predictor-predictor and predictor-target correlations are
 taken from Weber Fig. 1, and the cluster-level N, mean and SD from Weber Table 2; both
 are transcribed directly into the script, so no input file is required.
 
