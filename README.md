@@ -1,6 +1,6 @@
 # fair-mind-ecg-depression-works
 
-This directory contains the core code for the publication "ECG-based Autonomic Profiles for Depression: Partial Reproduction, Nonlinear Extension, and Commentary"
+This directory contains the core code for the publication "ECG-based Autonomic Profiles for Depression: Partial Reproduction, Nonlinear Extension, and Commentary."
 
 The two scripts cover the central analysis: deriving spectral HRV proxies (LF, HF,
 LFnu, TP) from the published summary statistics of Weber et al., and assigning subjects
@@ -11,7 +11,7 @@ preprocessing and subject-level aggregation are not included here.
 
 This code has been used to derive the LF, HF, LFnu and TP proxy equations from the
 published Weber summary statistics as described in the methods part of the manuscript
-under "[Section name1]". The predictor-predictor and predictor-target correlations are
+under "Spectral proxy reconstruction and cluster assignment." The predictor-predictor and predictor-target correlations are
 taken from Weber Fig. 1, and the cluster-level N, mean and SD from Weber Table 2; both
 are transcribed directly into the script, so no input file is required.
 
@@ -27,7 +27,7 @@ Outputs are written to `outputs/`:
 ## cluster_assignment.py
 
 This code has been used for the cluster assignment as described in the methods part of
-the manuscript under "[Section name]". Subjects are assigned to the fixed Weber Table 2
+the manuscript under "Spectral proxy reconstruction and cluster assignment." Subjects are assigned to the fixed Weber Table 2
 centroids by Euclidean distance in the 10-dimensional HRV space; no K-means is refitted.
 
 The subject-level input CSV is produced by the upstream preprocessing and aggregation
