@@ -1,4 +1,4 @@
-# fair-mind-ecg-depression
+# fair-mind-ecg-depression-works
 
 This directory contains the core code for the publication "ECG-based Autonomic Profiles for Depression: Partial Reproduction, Nonlinear Extension, and Commentary"
 
